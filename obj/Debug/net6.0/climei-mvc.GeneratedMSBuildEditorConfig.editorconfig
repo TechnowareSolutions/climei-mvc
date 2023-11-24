@@ -1,0 +1,201 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ClimeiMvc
+build_property.RootNamespace = ClimeiMvc
+build_property.ProjectDir = C:\FIAP\GS2 - Climei\climei-mvc\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\FIAP\GS2 - Climei\climei-mvc
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/FIAP/GS2 - Climei/climei-mvc/Views/DadosUsuarios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFkb3NVc3Vhcmlvc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/FIAP/GS2 - Climei/climei-mvc/Views/DadosUsuarios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFkb3NVc3Vhcmlvc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/FIAP/GS2 - Climei/climei-mvc/Views/DadosUsuarios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFkb3NVc3Vhcmlvc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/FIAP/GS2 - Climei/climei-mvc/Views/DadosUsuarios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFkb3NVc3Vhcmlvc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/FIAP/GS2 - Climei/climei-mvc/Views/DadosUsuarios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFkb3NVc3Vhcmlvc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/FIAP/GS2 - Climei/climei-mvc/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/FIAP/GS2 - Climei/climei-mvc/Views/LogAguas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9nQWd1YXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/FIAP/GS2 - Climei/climei-mvc/Views/LogAguas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9nQWd1YXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/FIAP/GS2 - Climei/climei-mvc/Views/LogAguas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9nQWd1YXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/FIAP/GS2 - Climei/climei-mvc/Views/LogAguas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9nQWd1YXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/FIAP/GS2 - Climei/climei-mvc/Views/LogAguas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9nQWd1YXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/FIAP/GS2 - Climei/climei-mvc/Views/LogBatimentoOxigenacaos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9nQmF0aW1lbnRvT3hpZ2VuYWNhb3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/FIAP/GS2 - Climei/climei-mvc/Views/LogBatimentoOxigenacaos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9nQmF0aW1lbnRvT3hpZ2VuYWNhb3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/FIAP/GS2 - Climei/climei-mvc/Views/LogBatimentoOxigenacaos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9nQmF0aW1lbnRvT3hpZ2VuYWNhb3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/FIAP/GS2 - Climei/climei-mvc/Views/LogBatimentoOxigenacaos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9nQmF0aW1lbnRvT3hpZ2VuYWNhb3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/FIAP/GS2 - Climei/climei-mvc/Views/LogBatimentoOxigenacaos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9nQmF0aW1lbnRvT3hpZ2VuYWNhb3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/FIAP/GS2 - Climei/climei-mvc/Views/LogTemperaturas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9nVGVtcGVyYXR1cmFzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/FIAP/GS2 - Climei/climei-mvc/Views/LogTemperaturas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9nVGVtcGVyYXR1cmFzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/FIAP/GS2 - Climei/climei-mvc/Views/LogTemperaturas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9nVGVtcGVyYXR1cmFzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/FIAP/GS2 - Climei/climei-mvc/Views/LogTemperaturas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9nVGVtcGVyYXR1cmFzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/FIAP/GS2 - Climei/climei-mvc/Views/LogTemperaturas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9nVGVtcGVyYXR1cmFzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/FIAP/GS2 - Climei/climei-mvc/Views/LogUmidades/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9nVW1pZGFkZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/FIAP/GS2 - Climei/climei-mvc/Views/LogUmidades/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9nVW1pZGFkZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/FIAP/GS2 - Climei/climei-mvc/Views/LogUmidades/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9nVW1pZGFkZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/FIAP/GS2 - Climei/climei-mvc/Views/LogUmidades/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9nVW1pZGFkZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/FIAP/GS2 - Climei/climei-mvc/Views/LogUmidades/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9nVW1pZGFkZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/FIAP/GS2 - Climei/climei-mvc/Views/NivelTemperaturas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTml2ZWxUZW1wZXJhdHVyYXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/FIAP/GS2 - Climei/climei-mvc/Views/NivelTemperaturas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTml2ZWxUZW1wZXJhdHVyYXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/FIAP/GS2 - Climei/climei-mvc/Views/NivelTemperaturas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTml2ZWxUZW1wZXJhdHVyYXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/FIAP/GS2 - Climei/climei-mvc/Views/NivelTemperaturas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTml2ZWxUZW1wZXJhdHVyYXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/FIAP/GS2 - Climei/climei-mvc/Views/NivelTemperaturas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTml2ZWxUZW1wZXJhdHVyYXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/FIAP/GS2 - Climei/climei-mvc/Views/NivelUmidades/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTml2ZWxVbWlkYWRlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/FIAP/GS2 - Climei/climei-mvc/Views/NivelUmidades/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTml2ZWxVbWlkYWRlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/FIAP/GS2 - Climei/climei-mvc/Views/NivelUmidades/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTml2ZWxVbWlkYWRlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/FIAP/GS2 - Climei/climei-mvc/Views/NivelUmidades/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTml2ZWxVbWlkYWRlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/FIAP/GS2 - Climei/climei-mvc/Views/NivelUmidades/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTml2ZWxVbWlkYWRlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/FIAP/GS2 - Climei/climei-mvc/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/FIAP/GS2 - Climei/climei-mvc/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/FIAP/GS2 - Climei/climei-mvc/Views/Usuarios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/FIAP/GS2 - Climei/climei-mvc/Views/Usuarios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/FIAP/GS2 - Climei/climei-mvc/Views/Usuarios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/FIAP/GS2 - Climei/climei-mvc/Views/Usuarios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/FIAP/GS2 - Climei/climei-mvc/Views/Usuarios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/FIAP/GS2 - Climei/climei-mvc/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/FIAP/GS2 - Climei/climei-mvc/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/FIAP/GS2 - Climei/climei-mvc/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-0j460g5260
